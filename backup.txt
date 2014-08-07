@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>ZR16</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+
+      <div id="header">
+         <nav>
+	<center>
+		<img border="2" src="/images/zr16l200x80.jpg" alt="ZR16" width="30%" height="30%">
+	</center>
+	</nav>
+
+
+
+
+	<!--
+        <nav>
+          <li class="fork"><a href="https://github.com/mattgraham/Midnight">ZR16</a></li>
+          <li class="downloads"><a href="https://github.com/mattgraham/Midnight/zipball/master">SMDH</a></li>
+          <li class="downloads"><a href="https://github.com/mattgraham/Midnight/tarball/master">Chipus</a></li>
+          <li class="title">Partners</li>
+        </nav>
+	-->
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+	   <P>
+	      Partners:
+	  </p>
+
+           <p>	
+              <img border="2" src="/images/smdh.png" alt="SMDH" width="30%" height="30%">
+              <img border="2" src="/images/smdh.png" alt="SMDH" width="30%" height="30%">
+           </p>
+	   <hr>
+	
+	  <!--
+          <h1>GitHub Pages Midnight Theme</h1>
+          <p>Design for the web to succeed and you too will succeed. </p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/mattgraham">mattgraham</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a></span>
+	  -->
+        </div>
+
+        <h1>ZR16</h1>
+        <p>	<pre><code>$ cd your_repo_root/repo_name
+	$ git fetch origin
+	$ git checkout gh-pages
+	</code></pre></p>
+
+
+        
+      </section>
+    </div>
+   <div id="footer">
+         <nav>
+	  © Copyright 2014 - Santa Maria Design House
+	</nav>
+   </div><!-- end footer -->
+
+    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
+  </body>
+</html>
